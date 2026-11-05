@@ -4,7 +4,7 @@ Releases of the `bluebox` command-line interface for [Bluebox](https://bluebox.a
 
 ## Install
 
-See the [CLI reference](https://docs.bluebox.ai/cli).
+See the [CLI reference](https://docs.bluebox.ai/cli) for installation and verifying checksums.
 
 ## Contributing
 
